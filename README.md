@@ -1,4 +1,4 @@
-# Speak Arabic — legal pages
+# Yalla Expat — legal pages
 
 Public Privacy Policy and Terms of Use for App Store Connect (GitHub Pages).
 
